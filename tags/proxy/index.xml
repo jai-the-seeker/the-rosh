@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>proxy on The Rosh</title>
+    <link>http://example.org/tags/proxy/</link>
+    <description>Recent content in proxy on The Rosh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>karma.jaimandeep@gmail.com (Jaimandeep Singh)</managingEditor>
+    <webMaster>karma.jaimandeep@gmail.com (Jaimandeep Singh)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 22 May 2021 06:40:51 +0900</lastBuildDate>
+    
+        <atom:link href="http://example.org/tags/proxy/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Ideas on Scaling up Security Architecture for deploying Web Apps</title>
+        <link>http://example.org/posts/20210522/</link>
+        <pubDate>Sat, 22 May 2021 06:40:51 +0900</pubDate>
+        <author>karma.jaimandeep@gmail.com (Jaimandeep Singh)</author>
+        <atom:modified>Sat, 22 May 2021 06:40:51 +0900</atom:modified>
+        <guid>http://example.org/posts/20210522/</guid>
+        <description>Let us take a use case in which a small to medium sized enterprise wants to scale up the security infrastructure of their internet facing website. They have this conventional architecture in which the website is hosted on Virtual Private Server (VPS). What can be done immediately, for upgrading the security posture of the hosted website, without actually going into the codebase or the workflow of the website itself.
+ The first step which comes directly to mind is to minimise the attack surface of our infrastructure which includes the website itself and the hosted environment and then to stop the malicious requests hitting the APIs.</description>
+        
+        <dc:creator>Jaimandeep Singh</dc:creator>
+        <media:content url="http://example.orgimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>WAF</category>
+            
+          
+            
+              <category>load balancer</category>
+            
+          
+            
+              <category>proxy</category>
+            
+          
+        
+        
+          
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
